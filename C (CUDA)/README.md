@@ -1,10 +1,11 @@
-Esta carpeta tiene algunos proyectos que he realizado en el curso "optimizacion con gpu", donde aprendí desarrollar codigos usando cuda en c.
-Los codigos y gif que subí son simulaciones de sistemas fisicos como:
--simulacion de n cuerpos donde paralelicé el calculo de la evolucion de cada particula, usé leapfrog y la ecuacion de poisson con diferencias finitas.
--la ecuacion de onda, paralelicé el calculo de cada punto espacial de la grilla de \(phi\) usando diferencias finitas, tambien implemente stream para
-  calcular 2 ondas por separados y usando la linealidad de la ecuacion, sume ambas soluciones.
--una simulacion del colapso gravitacional de un campo escalar usando el formalismo ADM, donde paralelicé varias ecuaciones para su evolucion, el caso de los gif es un colapso
-  con amplitud inicial de 0.01, cuando la onda deja de avanzar en el tiempo indica que la funcion lapso de la metrica es cero, es decir no hay paso de tiempo
-  propio de un agujero negro.
+Esta carpeta tiene algunos proyectos que he realizado en el curso "Optimización con GPU", donde aprendí a desarrollar códigos usando CUDA en C.
+
+Los códigos y GIF que subí son simulaciones de sistemas físicos como:
+
+- **Simulación de N-cuerpos:** Paralelicé el cálculo de la evolución de cada partícula utilizando el método *Leapfrog* y la ecuación de Poisson con diferencias finitas.
+
+- **Ecuación de onda:** Paralelicé el cálculo de cada punto espacial de la grilla de \(\phi\) usando diferencias finitas. También implementé *streams* para calcular dos ondas por separado y, usando la linealidad de la ecuación, sumé ambas soluciones.
+
+- **Simulación del colapso gravitacional de un campo escalar:** Utilicé el formalismo ADM para paralelizar varias ecuaciones para su evolución. El GIF muestra un colapso con una amplitud inicial de 0.01. Cuando la onda deja de avanzar en el tiempo, indica que la función lapso de la métrica es cero, es decir, no hay paso de tiempo propio en el agujero negro.
 
 Estos proyectos demuestran mi capacidad para optimizar simulaciones físicas y paralelizar algoritmos complejos utilizando CUDA.
