@@ -48,9 +48,11 @@ Cada carpeta incluye otros trabajos adicionales que muestran mis conocimientos y
   - Ondas estacionarias.
   - Interferencia.
   - Sistemas acoplados.
-  - Resorte y otros tipos de ondas.
+  - Resorte.
+  - Reflexion y Transmision.
+  - Resonancia, etc...
 - **Impacto:** Presentado en charlas universitarias y distribuido gratuitamente a estudiantes para uso académico.
-- **Aprendizaje:** Primera experiencia en desarrollo de software con interfaz gráfica, mejorando mis habilidades en simulación física y métodos numéricos.
+- **Aprendizaje:** Primera experiencia en desarrollo de software con interfaz gráfica, programación orientada a objetos, mejorando mis habilidades en simulación física y métodos numéricos.
 
 ![Interfaz](TKinter%20%28python%29/img3.png)
 
