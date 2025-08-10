@@ -1,7 +1,7 @@
 # Portafolio de Proyectos
 
 Gracias por visitar mi repositorio.  
-Aquí encontrarás los 4 proyectos más relevantes que he desarrollado.  
+Aquí encontrarás los 3 proyectos más relevantes que he desarrollado.  
 Cada carpeta incluye otros trabajos adicionales que muestran mis conocimientos y experiencia.
 
 ---
